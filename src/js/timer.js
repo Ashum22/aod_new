@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   // конечная дата
-  const deadline = new Date(2022, 08, 01);
+  const deadline = new Date(2023, 11, 01);
 //   const deadline = new Date(new Date().getFullYear(), new Date().getMonth() + 1, 01);
   // id таймера
   let timerId = null;
